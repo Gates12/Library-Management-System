@@ -5,7 +5,7 @@ This project is a Local Library Management System, a web application for managin
 ## Screenshots
 
 ### User Home
-![User Home](/screenshots/user_home.png)
+![User Home](![image](https://github.com/user-attachments/assets/035b08e1-b8a0-4691-b72c-8f9676d31a46))
 
 ### Admin Home
 ![Admin Home](/screenshots/admin_home.png)
