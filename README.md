@@ -2,6 +2,27 @@
 
 This project is a Local Library Management System, a web application for managing a local library. It allows users to browse available books, reserve books, and manage their accounts. Administrators can add, update, or remove books and manage user accounts.
 
+## Screenshots
+
+### User Home
+![User Home](/screenshots/user_home.png)
+
+### Admin Home
+![Admin Home](/screenshots/admin_home.png)
+
+### Add Book Form
+![Add Book Form](/screenshots/add_book_form.png)
+
+### Book Page
+![Book Page](/screenshots/book_page.png)
+
+### Signup Page
+![Signup Page](/screenshots/signup_page.png)
+
+### Login Page
+![Login Page](/screenshots/login_page.png)
+
+---
 ## Key Features
 
 - **User Authentication:**
